@@ -1,8 +1,6 @@
 # <img align="left" alt="Rafa-pic" height="120" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/905166463705448482/986608730030374952/picasion.com_d6028dc31db44d30b27a51113b18ff50.gif"> Olá, sou o Ed Carlos💻
 <br>
 <br>
-<br>
-<br>
 <div align="center">
   <a href="https://github.com/EdCarlosNunes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EdCarlosNunes&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
