@@ -1,10 +1,10 @@
 # Olá, eu sou o Ed Carlos 👋
 
-Sou um Engenheiro apaixonado por tecnologia e atualmente estou mergulhado no mundo da **Ciência de Dados**. Além de analisar dados, sou fotógrafo e mantenho o canal **Tilt Games**, focado em emulação de jogos.
+Sou um estudante apaixonado por tecnologia e atualmente estou mergulhado no mundo da **Ciência de Dados**. Além de analisar dados, sou fotógrafo e mantenho o canal **Tilt Games**, focado em emulação de jogos.
 
 ### 📊 Minhas Linguagens (Porcentagem de Uso)
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlosNunes&layout=compact&langs_count=7&theme=aura&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlosNunes&layout=compact&langs_count=7&theme=dark&hide_border=true" />
 </div>
 
 <br>
