@@ -3,7 +3,9 @@
 Sou um estudante apaixonado por tecnologia e atualmente estou mergulhado no mundo da **Ciência de Dados**. Além de analisar dados, sou fotógrafo e mantenho o canal **Tilt Games**, focado em emulação de jogos.
 
 ### 📊 Minhas Linguagens (Porcentagem de Uso)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlosNunes&layout=compact&theme=dark)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdCarlosNunes&theme=radical" alt="Linguagens Mais Usadas" />
+</p>
 
 <br>
 ### 📫 Vamos nos conectar?
